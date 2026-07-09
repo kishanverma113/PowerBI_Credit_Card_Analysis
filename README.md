@@ -155,12 +155,7 @@ This dashboard helps business teams to:
 
 # 📸 Dashboard Preview
 
-> Add your dashboard screenshots here.
-
-### Transaction Dashboard
-
-```text
-<h2 align="center">💳 Credit Card Transaction Dashboard</h2>
+## 💳 Credit Card Transaction Dashboard
 
 <p align="center">
   <img
@@ -171,31 +166,28 @@ This dashboard helps business teams to:
 </p>
 
 <p align="center">
-  <strong>Power BI • Transaction Analytics • Revenue Insights • KPI Monitoring • Business Intelligence</strong>
+  <strong>Revenue Analysis • Transaction Insights • KPI Monitoring • Quarterly Performance</strong>
+</p>
+
+---
+
+## 👥 Credit Card Customer Dashboard
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/2c940e23-2eff-4750-ada0-473be8580fcf"
+    alt="Credit Card Customer Dashboard"
+    width="95%"
+  />
 </p>
 
 <p align="center">
-  This dashboard provides a comprehensive overview of credit card transactions, including revenue, transaction volume, interest earned, quarterly trends, card category performance, and key business KPIs to support data-driven decision-making.
-</p>
-```
-
-### Customer Dashboard
-
-```text
-<h2 align="center">👥 Customer Analytics Dashboard</h2>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2c940e23-2eff-4750-ada0-473be8580fcf"
-       alt="Customer Dashboard"
-       width="95%">
-</p>
-
-<p align="center">
-  <b>Power BI | Customer Segmentation | Revenue Analysis | Business Intelligence</b>
+  <strong>Customer Segmentation • Revenue Distribution • Demographic Analysis • Business Intelligence</strong>
 </p>
 
 
-```
+
+
 
 ---
 
